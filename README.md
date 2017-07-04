@@ -9,4 +9,4 @@ If you use Python3, you have to change the following points
 In resize.py, please change  
 1, "raw_input()" to "input()"  
 2, "if not (img is None):" to "if not (img.all() is None):"  
-------------------------------------------------------------------
+###################################################################
