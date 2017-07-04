@@ -38,4 +38,4 @@ if __name__ == '__main__':
             count += 1
             cv2.imwrite("./{}/output-{}.jpg".format(dirname, count), re_size)
         else:
-            print("Not Exist the image")
+            print("Not Exist the image: {}".format(f))
