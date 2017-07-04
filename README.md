@@ -5,7 +5,7 @@ If you choose the path of the directory including images, it outputs processed i
 
 
 
-############################## **Note** ###########################  
+############################## **Note** #############################  
 This script is written by python2.  
 If you use Python3, you have to change the following points  
 In resize.py, please change  
