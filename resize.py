@@ -18,10 +18,10 @@ if __name__ == '__main__':
     
     # ask you the size you want
     print("What size do you want?")
-    print("What is the height?")
+    print("What is the width?")
     input_height = raw_input('>>>  ')
     print("You decided  {}  pixels.(height)".format(input_height))
-    print("What is the width?")
+    print("What is the height?")
     input_width = raw_input('>>>  ')
     print("You decided  {}  pixels.(width)".format(input_width))
     
